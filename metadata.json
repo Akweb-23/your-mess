@@ -1,0 +1,5 @@
+{
+  "name": "MessMate",
+  "description": "A simple, offline-friendly mess management app for owners and students to track attendance and billing.",
+  "requestFramePermissions": []
+}
